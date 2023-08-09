@@ -1,4 +1,4 @@
-(self["webpackChunkremote_one"] = self["webpackChunkremote_one"] || []).push([["node_modules_angular_core_fesm2020_core_mjs"],{
+(self["webpackChunkremote_one"] = self["webpackChunkremote_one"] || []).push([["angular_core_fesm2020_core_mjs"],{
 
 /***/ 6646:
 /*!*****************************************************************!*\
@@ -35276,4 +35276,4 @@ if (typeof ngDevMode !== 'undefined' && ngDevMode) {
 /***/ })
 
 }])
-//# sourceMappingURL=node_modules_angular_core_fesm2020_core_mjs.js.map
+//# sourceMappingURL=angular_core_fesm2020_core_mjs.js.map
